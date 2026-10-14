@@ -1,3 +1,4 @@
+// A simple program that makes an LED blink
 #include <Arduino.h>
 
 int LEDpin = 8;
